@@ -1,6 +1,10 @@
 # ThreeLeggedBalance
 Teaching a Robot New tricks - Three legged Balance mouvements. Supervised by Guillaume Bellegarda and Auke Ijkspeert at BIOROB lab at EPFL.
-![Uploading 3leggif.gif…]()
+
+
+<p align="center">
+  <img src="https://github.com/YucefG/ThreeLeggedBalance/assets/50379011/6659f2e2-724d-45d9-8914-eb5f9b2fdfb1" alt="Sublime's custom image", width="400"/>
+</p>
 
 # Installation
 To setup rightly the workspace, please follow the **installation** part in clemson-dira [repository](https://github.com/clemson-dira/legged_control/tree/unitree_go1).   
