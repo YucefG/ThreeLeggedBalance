@@ -1,0 +1,52 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/data/grebici/catkin_WBC/devel/include/**",
+        "/data/grebici/catkin_ws_go1/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/eiquadprog/include/**",
+        "/data/grebici/catkin_ws_go1/src/go1_full/go1_software/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_sqp/hpipm_catkin/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/hpp-fcl/include/**",
+        "/data/grebici/catkin_WBC/src/legged_control/legged_common/include/**",
+        "/data/grebici/catkin_WBC/src/legged_control/legged_controllers/include/**",
+        "/data/grebici/catkin_WBC/src/legged_control/legged_estimation/include/**",
+        "/data/grebici/catkin_WBC/src/legged_control/legged_gazebo/include/**",
+        "/data/grebici/catkin_WBC/src/legged_control/legged_interface/include/**",
+        "/data/grebici/catkin_WBC/src/legged_control/legged_wbc/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_pinocchio/ocs2_centroidal_model/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_core/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_ddp/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_ipm/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_robotic_examples/ocs2_legged_robot/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_robotic_examples/ocs2_legged_robot_ros/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_mpc/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_oc/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_pinocchio/ocs2_pinocchio_interface/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_test_tools/ocs2_qp_solver/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2_robotic_assets/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_robotic_tools/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_ros_interfaces/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_pinocchio/ocs2_self_collision/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_pinocchio/ocs2_self_collision_visualization/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_sqp/ocs2_sqp/include/**",
+        "/data/grebici/catkin_WBC/src/git_folders/ocs2/ocs2_thirdparty/include/**",
+        "/data/grebici/catkin_ws_go1/src/go1_full/unitree_ros/unitree_controller/include/**",
+        "/data/grebici/catkin_ws_go1/src/go1_full/unitree_ros/unitree_legged_control/include/**",
+        "/data/grebici/catkin_ws_go1/src/go1_full/unitree_ros_to_real/unitree_legged_real/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
