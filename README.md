@@ -9,6 +9,8 @@ Teaching a Robot New tricks - Three legged Balance mouvements. Supervised by Gui
 # Installation
 To setup rightly the workspace, please follow the **installation** part in clemson-dira [repository](https://github.com/clemson-dira/legged_control/tree/unitree_go1).   
 
+**Make sure that the ROS packages have been placed in the `src` folder of a catkin workspace.** Additional packages should be installed as explained in the linked repo above. 
+
 Reminder that at any change in the legged_control package, re-run these commands:
 ```
 catkin build legged_controllers legged_unitree_description
